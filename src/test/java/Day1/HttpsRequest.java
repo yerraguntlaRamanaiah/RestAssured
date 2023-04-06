@@ -23,7 +23,7 @@ validate status code,extract response, extract headers, cookies and response bod
 */
 
 public class HttpsRequest {
-	int id;
+	double id;
 	
 	@Test(priority=1)
 	void getUsers()
